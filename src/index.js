@@ -2,8 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 import PerLoader from "./perLoader";
-// import { Analytics } from "@vercel/analytics/react";
-
 import { inject } from "@vercel/analytics";
 
 inject()

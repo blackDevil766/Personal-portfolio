@@ -479,6 +479,7 @@ p {
 #welcomeToMyWebSite {
     /* background-color: #455D58; */
     background-color: #2c5f54;
+    padding-top: 57px;
     /* height: 100vh */
     /* box-shadow: 0px 11px 11px 6px #727272; */
 }
@@ -2330,6 +2331,10 @@ hr {
 
     * ************************/
     /*  */
+    #welcomeToMyWebSite{
+        padding-top: 57px;
+    }
+
     .typo {
         font-size: 65px;
     }
@@ -2840,7 +2845,7 @@ hr {
 *******************/
     .contact-container {
         display: block;
-        width: 66vw;
+        width: 83vw;
     }
 
     .left-contact {
