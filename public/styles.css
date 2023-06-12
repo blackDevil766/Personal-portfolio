@@ -2627,8 +2627,13 @@ hr {
     }
 
     .about-title {
-        /* width: 100%; */
         padding: 0 20px;
+        margin: 0 auto;
+    }
+
+    .about-decribtion {
+        padding: 0 20px;
+        margin: 0 auto;
     }
 
     .Toggle-btn {
@@ -2644,10 +2649,7 @@ hr {
         align-items: flex-start;
     }
 
-    .about-decribtion {
-        /* width: 100%; */
-        padding: 0 20px;
-    }
+
 
     .about-right-img-section {
         width: auto;
