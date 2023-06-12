@@ -227,7 +227,7 @@ function Portfolio() {
                                 <button id="signUpBtn" className="btn likeBtn" type="submit">Like this <img src="\img\like.svg" alt="" /></button>
                             </Tilt>
                             <Tilt >
-                                <a href="https://rainbowit.netlify.app/">   <button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
+                                <a href="https://rainbowit.vercel.app/">   <button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
                             </Tilt>
                         </div>
 
