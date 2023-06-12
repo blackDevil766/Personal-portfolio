@@ -188,7 +188,7 @@ function Portfolio() {
                                 <button id="signUpBtn" className="btn likeBtn" type="submit">Like this <img src="\img\like.svg" alt="" /></button>
                             </Tilt>
                             <Tilt >
-                                <a href="https://ecommerc-shop.netlify.app"><button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
+                                <a href="https://ecom-two-lilac.vercel.app/"><button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
                             </Tilt>
                         </div>
 
@@ -265,7 +265,7 @@ function Portfolio() {
                                 <button id="signUpBtn" className="btn likeBtn" type="submit">Like this <img src="\img\like.svg" alt="" /></button>
                             </Tilt>
                             <Tilt >
-                                <a href="https://smartacademia.netlify.app/"><button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
+                                <a href="https://smart-academy.vercel.app/"><button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
                             </Tilt>
                         </div>
 
@@ -307,7 +307,7 @@ function Portfolio() {
                                 <button id="signUpBtn" className="btn likeBtn" type="submit">Like this <img src="\img\like.svg" alt="" /></button>
                             </Tilt>
                             <Tilt >
-                                <a href="https://netstorm.netlify.app/"><button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
+                                <a href="https://net-storm.vercel.app/"><button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
                             </Tilt>
                         </div>
 
@@ -347,7 +347,7 @@ function Portfolio() {
                                 <button id="signUpBtn" className="btn likeBtn" type="submit">Like this <img src="\img\like.svg" alt="" /></button>
                             </Tilt>
                             <Tilt >
-                                <a href="https://cardetails.netlify.app/"><button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
+                                <a href="https://car-details.vercel.app/"><button id="signUpBtn" className="btn viewBtn" type="submit">view project <img src="\img\right-arrow.svg" alt="" /> </button></a>
                             </Tilt>
                         </div>
 

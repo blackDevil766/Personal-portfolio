@@ -46,7 +46,7 @@ a {
     letter-spacing: 1px;
     text-transform: uppercase;
     display: block;
-    text-decoration: none;
+    text-decoration: none !important;
     outline: none;
     transition: all 0.4s;
 }
